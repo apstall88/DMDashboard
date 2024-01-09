@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\..\\dmdashboard.client",
+"WorkingDirectory": "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\..\\dmdashboard.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

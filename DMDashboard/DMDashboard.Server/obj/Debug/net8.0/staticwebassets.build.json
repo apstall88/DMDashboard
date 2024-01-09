@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Ky+0rSzBDTAG4hOSTyHnduZNoFWfO0UR4lGpRzEpgiI=",
+  "Source": "DMDashboard.Server",
+  "BasePath": "_content/DMDashboard.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\dmdashboard.client\\dmdashboard.client.esproj",
+      "Version": 2,
+      "Source": "dmdashboard.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

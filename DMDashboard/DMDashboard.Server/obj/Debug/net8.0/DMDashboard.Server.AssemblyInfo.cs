@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMDashboard.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd718cd3796e4bfd33378c5e08cc0f8edf090236")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMDashboard.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMDashboard.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj": {}
+    "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj": {
+    "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj",
+        "projectUniqueName": "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj",
         "projectName": "DMDashboard.Server",
-        "projectPath": "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj",
+        "projectPath": "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj",
         "packagesPath": "C:\\Users\\astal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\obj\\",
+        "outputPath": "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VSExtens\\NuGetPackages"

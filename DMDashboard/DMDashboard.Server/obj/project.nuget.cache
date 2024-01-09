@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hyE6M5qBIh+lR7yrJyqbV8BqcyWZIs92Tolub+YYzuiNdQTHJYumKg20FHGwvnlcCOavp//s2UMqMu+C3H6P8g==",
+  "dgSpecHash": "2bp7NgO9J7dbGCy/neHTJH9Pm8zQSlobug22lRRqqVGRQc7XKZwkWmXJ6medsfNTaXmws53t1hbbNfZOCoxONA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\astal\\source\\repos\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj",
+  "projectFilePath": "C:\\Users\\astal\\source\\repos\\DMDashRepo\\DMDashboard\\DMDashboard.Server\\DMDashboard.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\astal\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.1\\microsoft.aspnetcore.spaproxy.8.0.1.nupkg.sha512",
     "C:\\Users\\astal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
