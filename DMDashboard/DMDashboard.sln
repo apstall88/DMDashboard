@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMDashboard.Server", "DMDashboard.Server\DMDashboard.Server.csproj", "{8C95B659-BA22-480D-A589-830B78A47506}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dmdashboard.client", "dmdashboard.client\dmdashboard.client.esproj", "{85193D46-5E42-4524-83A5-2342914E4AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C95B659-BA22-480D-A589-830B78A47506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C95B659-BA22-480D-A589-830B78A47506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C95B659-BA22-480D-A589-830B78A47506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C95B659-BA22-480D-A589-830B78A47506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85193D46-5E42-4524-83A5-2342914E4AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85193D46-5E42-4524-83A5-2342914E4AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85193D46-5E42-4524-83A5-2342914E4AF5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{85193D46-5E42-4524-83A5-2342914E4AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85193D46-5E42-4524-83A5-2342914E4AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85193D46-5E42-4524-83A5-2342914E4AF5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9086DF03-87BA-4742-AC83-1C82D05928BD}
+	EndGlobalSection
+EndGlobal

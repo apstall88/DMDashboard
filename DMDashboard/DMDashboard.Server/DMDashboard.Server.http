@@ -1,0 +1,6 @@
+@DMDashboard.Server_HostAddress = http://localhost:5224
+
+GET {{DMDashboard.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
